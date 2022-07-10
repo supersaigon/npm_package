@@ -1,5 +1,5 @@
 {
-	"author": "Super Saigon",
+	"author": "SuperSaigon",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
